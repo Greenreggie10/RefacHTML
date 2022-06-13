@@ -44,3 +44,14 @@ You are required to submit the following for review:
 
 - - -
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+
+
+<!-- Title -->
+<!-- list of technologies used -->
+<!-- URL to hosted site -->
+<!-- picture of site -->
+<!-- description of the site purpose -->
+<!-- author & contributors -->
+<!-- updates -->
+
+![alt text](./assets/images/cost-management.png)
